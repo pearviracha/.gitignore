@@ -1,0 +1,2 @@
+# .gitignore
+Minesweeper project
